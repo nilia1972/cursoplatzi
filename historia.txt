@@ -1,7 +1,7 @@
 Esta es mi historia
 
-Jorge Niglia tiene 48 años y nacio en Argentina
+Jorge Niglia tiene 48 años y nació en Mar del Plata, Argentina
 
-Hoy hablaremos de historia. Mañana No.
+Hoy hablaremos de programación. Mañana de layouts.
 
 Que bueno. river empezo a entrenar.
